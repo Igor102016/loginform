@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+.left {
+    width: 60%;
+    position: relative;
+    float: left;
+    background-color: blueviolet;
+    height: 600px;
+
+}
+
+.right {
+    width: 40%;
+    position: relative;
+    float: left;
+    background-color: blueviolet;
+    height: 600px;
+}
+
+.cell1 {
+    width: 20%;
+    position: relative;
+    float: left;
+
+}
+
+.cell2 {
+    width: 50%;
+    position: relative;
+    float: left;
+    max-width: 100%;
+
+}
+img {
+    max-width: 100%;
+}
